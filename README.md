@@ -1,0 +1,2 @@
+# SpringbootRedisStarter
+springboot自定启动器练习，实现redis功能封装
